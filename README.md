@@ -10,4 +10,5 @@ Compiles a string by extracting everything from a piece of text that comes after
 	c:\yesnoparser>YesNoParser.Cli.exe http://mysite.com/resource.htm
 
 Writes a HTML-tagfree string to 
+
 	c:\yesnoparser\http---mysite.com-resource.htm.txt
