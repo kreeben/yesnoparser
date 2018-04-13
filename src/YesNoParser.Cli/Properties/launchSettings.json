@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YesNoParser.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "http://localhost:82/test.htm"
+    }
+  }
+}

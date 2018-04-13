@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YesNoParser", "YesNoParser\YesNoParser.csproj", "{E0723AA3-3A26-4A8D-B433-AE859D215099}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YesNoParser.Cli", "..\YesNoParser.Cli\YesNoParser.Cli.csproj", "{B896C0C6-C0E4-4E82-8215-B2A1018B90B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YesNoParser.Cli", "YesNoParser.Cli\YesNoParser.Cli.csproj", "{B896C0C6-C0E4-4E82-8215-B2A1018B90B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
